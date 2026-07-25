@@ -1,0 +1,10 @@
+div {
+    background-color: tomato;
+    padding: 10px;
+}
+
+#midText {
+    background-color: lightblue;
+    /* padding: 10px; */
+    text-decoration: underline;
+}
